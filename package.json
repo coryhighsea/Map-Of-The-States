@@ -1,0 +1,11 @@
+{
+  "name": "Map-Of-The-States",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MacMcIrish/Map-Of-The-States.git",
+  "author": "Jeff Soloshy <jeffsoloshy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
